@@ -2,6 +2,8 @@
 Just a quick & dirty 5,10,15,30,60 minutes bike isocrhrone map of Bologna using road & ciclepath network available on Openstreetmap
 It clearly show from the central main square how the Bologna center areas (the one surronded by the Bologna circular Vialis)have approx a 5 minutes radius...  
 
+Also an alternative version from the Bolognina main cross with 5,10,15,30 minutes isocrhones
+
 This is based and using the OSMnx[[1]](#1) library
 
 ## References
